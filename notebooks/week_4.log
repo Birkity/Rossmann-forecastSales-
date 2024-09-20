@@ -5,3 +5,6 @@
 2024-09-20 14:35:50,197 - INFO - Train and Store datasets loaded successfully.
 2024-09-20 14:37:40,613 - INFO - Handled missing values in the store dataset using forward fill.
 2024-09-20 14:37:41,017 - INFO - Extracted year, month, and day from Date column in train dataset.
+2024-09-20 14:48:21,974 - INFO - Datasets loaded successfully.
+2024-09-20 14:48:22,259 - INFO - Train and Test datasets merged with store data.
+2024-09-20 14:48:23,038 - INFO - Filled missing values using forward fill.
