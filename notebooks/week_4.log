@@ -55,3 +55,12 @@
 2024-09-20 15:04:18,443 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
 2024-09-20 15:04:18,563 - INFO - Sales behavior around school holidays plotted.
 2024-09-20 15:04:18,871 - INFO - Additional numerical analysis for holidays and school holidays completed.
+2024-09-20 15:12:24,039 - INFO - Sales analyzed for December (Christmas) and Easter.
+2024-09-20 15:12:24,154 - INFO - Seasonal behavior plotted for Christmas and Easter.
+2024-09-20 15:13:34,201 - INFO - Sales analyzed for December (Christmas) and Easter.
+2024-09-20 15:13:34,398 - INFO - Seasonal behavior plotted for Christmas and Easter.
+2024-09-20 15:14:11,547 - INFO - Sales analyzed for December (Christmas) and Easter.
+2024-09-20 15:14:11,685 - INFO - Seasonal behavior plotted for Christmas and Easter.
+2024-09-20 15:14:11,773 - INFO - Normality test completed.
+2024-09-20 15:14:11,773 - INFO - Additional statistical analysis completed.
+2024-09-20 15:14:11,820 - INFO - Sales growth rate calculated.
