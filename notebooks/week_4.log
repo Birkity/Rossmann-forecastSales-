@@ -193,3 +193,7 @@
 2024-09-20 19:50:21,806 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
 2024-09-20 19:50:21,813 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
 2024-09-20 19:50:21,933 - INFO - Plotted sales behavior before and after new competitors entered the market.
+2024-09-20 19:57:58,648 - INFO - Analyzed stores open on all weekdays and their sales on weekends.
+2024-09-20 19:57:58,674 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 19:57:58,682 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 19:57:58,813 - INFO - Plotted weekend sales for stores open on all weekdays with text labels.
