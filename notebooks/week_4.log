@@ -64,3 +64,31 @@
 2024-09-20 15:14:11,773 - INFO - Normality test completed.
 2024-09-20 15:14:11,773 - INFO - Additional statistical analysis completed.
 2024-09-20 15:14:11,820 - INFO - Sales growth rate calculated.
+2024-09-20 15:19:54,889 - INFO - Correlation between sales and number of customers calculated.
+2024-09-20 15:19:55,226 - INFO - Correlation plot created between sales and customers.
+2024-09-20 15:21:25,663 - INFO - Correlation between sales and number of customers calculated.
+2024-09-20 15:21:25,795 - INFO - Correlation plot created between sales and customers.
+2024-09-20 15:21:26,288 - INFO - Additional correlation analysis completed.
+2024-09-20 15:25:05,083 - INFO - Sales and customers analyzed during promotion periods.
+2024-09-20 15:25:05,095 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 15:25:05,183 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 15:25:05,357 - INFO - Sales comparison during promotions plotted.
+2024-09-20 15:25:05,364 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 15:25:05,364 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 15:25:05,530 - INFO - Customer comparison during promotions plotted.
+2024-09-20 15:28:20,999 - INFO - Sales and customers analyzed during promotion periods.
+2024-09-20 15:28:21,025 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 15:28:21,032 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 15:28:21,152 - INFO - Sales comparison during promotions plotted.
+2024-09-20 15:28:21,165 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 15:28:21,186 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 15:28:21,332 - INFO - Customer comparison during promotions plotted.
+2024-09-20 15:28:23,549 - INFO - Additional promotion analysis completed.
+2024-09-20 15:29:21,753 - INFO - Sales and customers analyzed during promotion periods.
+2024-09-20 15:29:21,768 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 15:29:21,774 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 15:29:21,918 - INFO - Sales comparison during promotions plotted.
+2024-09-20 15:29:21,918 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 15:29:21,937 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 15:29:22,083 - INFO - Customer comparison during promotions plotted.
+2024-09-20 15:29:22,233 - INFO - Additional promotion analysis completed.
