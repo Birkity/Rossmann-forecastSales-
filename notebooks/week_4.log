@@ -132,3 +132,64 @@
 2024-09-20 15:50:42,956 - INFO - Analyzed average sales based on competitor distance for city center stores.
 2024-09-20 15:50:43,235 - INFO - Plotted effect of competitor distance on city center store sales.
 2024-09-20 15:50:43,237 - INFO - Completed additional competitor distance analysis.
+2024-09-20 19:35:16,178 - INFO - Libraries imported successfully.
+2024-09-20 19:35:16,188 - INFO - Imported libraries are ready for use.
+2024-09-20 19:35:18,584 - INFO - Datasets loaded successfully.
+2024-09-20 19:35:18,907 - INFO - Train and Test datasets merged with store data.
+2024-09-20 19:35:20,386 - INFO - Filled missing values using forward fill.
+2024-09-20 19:35:20,410 - INFO - Promo distribution checked in both training and test datasets.
+2024-09-20 19:35:20,938 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 19:35:20,995 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 19:35:21,122 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 19:35:21,127 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 19:35:21,887 - INFO - Promo distribution comparison plot created.
+2024-09-20 19:35:21,929 - INFO - Additional numerical analysis completed.
+2024-09-20 19:35:23,319 - INFO - Sales before, during, and after holidays analyzed.
+2024-09-20 19:35:23,332 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 19:35:23,348 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 19:35:23,440 - INFO - Sales behavior around holidays plotted.
+2024-09-20 19:35:23,451 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 19:35:23,459 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 19:35:23,556 - INFO - Sales behavior around school holidays plotted.
+2024-09-20 19:35:23,801 - INFO - Additional numerical analysis for holidays and school holidays completed.
+2024-09-20 19:35:24,248 - INFO - Sales analyzed for December (Christmas) and Easter.
+2024-09-20 19:35:24,393 - INFO - Seasonal behavior plotted for Christmas and Easter.
+2024-09-20 19:35:24,578 - INFO - Normality test completed.
+2024-09-20 19:35:24,578 - INFO - Additional statistical analysis completed.
+2024-09-20 19:35:24,598 - INFO - Sales growth rate calculated.
+2024-09-20 19:35:24,731 - INFO - Correlation between sales and number of customers calculated.
+2024-09-20 19:35:24,952 - INFO - Correlation plot created between sales and customers.
+2024-09-20 19:35:25,221 - INFO - Additional correlation analysis completed.
+2024-09-20 19:35:25,321 - INFO - Sales and customers analyzed during promotion periods.
+2024-09-20 19:35:25,336 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 19:35:25,342 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 19:35:25,473 - INFO - Sales comparison during promotions plotted.
+2024-09-20 19:35:25,488 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 19:35:25,497 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 19:35:25,647 - INFO - Customer comparison during promotions plotted.
+2024-09-20 19:35:25,787 - INFO - Additional promotion analysis completed.
+2024-09-20 19:35:29,014 - INFO - Extracted hour information from Date column.
+2024-09-20 19:35:29,109 - INFO - Analyzed open store hours data.
+2024-09-20 19:35:29,129 - INFO - Analyzed sales trends during store operating hours.
+2024-09-20 19:35:29,640 - INFO - Hourly sales trends plotted during store operating hours.
+2024-09-20 19:35:29,995 - INFO - Additional hourly sales analysis completed.
+2024-09-20 19:35:30,077 - INFO - Assortment type analyzed for sales.
+2024-09-20 19:35:30,293 - INFO - Assortment type effect on sales plotted.
+2024-09-20 19:35:30,294 - INFO - Additional assortment analysis completed.
+2024-09-20 19:35:31,322 - INFO - Analyzed average sales based on competitor distance for city center stores.
+2024-09-20 19:35:31,660 - INFO - Plotted effect of competitor distance on city center store sales.
+2024-09-20 19:35:32,006 - INFO - Completed additional competitor distance analysis.
+2024-09-20 19:35:32,317 - INFO - Analyzed effect of new competitors entering the market.
+2024-09-20 19:35:32,883 - INFO - Calculated average sales before and after new competitors entered the market.
+2024-09-20 19:40:05,300 - INFO - Analyzed effect of new competitors entering the market.
+2024-09-20 19:40:05,528 - INFO - Calculated average sales before and after new competitors entered the market.
+2024-09-20 19:40:05,791 - INFO - Plotted sales behavior before and after new competitors entered the market.
+2024-09-20 19:40:05,839 - INFO - Completed additional competitor entry analysis.
+2024-09-20 19:40:36,987 - INFO - Analyzed effect of new competitors entering the market.
+2024-09-20 19:40:37,172 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 19:40:37,184 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 19:40:37,337 - INFO - Plotted sales behavior before and after new competitors entered the market.
+2024-09-20 19:50:21,641 - INFO - Analyzed effect of new competitors entering the market.
+2024-09-20 19:50:21,806 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 19:50:21,813 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 19:50:21,933 - INFO - Plotted sales behavior before and after new competitors entered the market.
