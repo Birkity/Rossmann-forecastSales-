@@ -92,3 +92,21 @@
 2024-09-20 15:29:21,937 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
 2024-09-20 15:29:22,083 - INFO - Customer comparison during promotions plotted.
 2024-09-20 15:29:22,233 - INFO - Additional promotion analysis completed.
+2024-09-20 15:32:51,639 - INFO - Sales and customers analyzed during promotion periods.
+2024-09-20 15:32:51,656 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 15:32:51,656 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 15:32:51,803 - INFO - Sales comparison during promotions plotted.
+2024-09-20 15:32:51,803 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 15:32:51,826 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 15:32:52,027 - INFO - Customer comparison during promotions plotted.
+2024-09-20 15:32:52,202 - INFO - Additional promotion analysis completed.
+2024-09-20 15:33:25,759 - INFO - Analyzed sales during store opening and closing times.
+2024-09-20 15:33:25,776 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 15:33:25,776 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 15:33:25,916 - INFO - Sales plotted during store open and closed times.
+2024-09-20 15:33:26,082 - INFO - Additional store analysis completed.
+2024-09-20 15:36:47,146 - INFO - Extracted hour information from Date column.
+2024-09-20 15:36:47,241 - INFO - Analyzed open store hours data.
+2024-09-20 15:36:47,257 - INFO - Analyzed sales trends during store operating hours.
+2024-09-20 15:36:47,673 - INFO - Hourly sales trends plotted during store operating hours.
+2024-09-20 15:36:48,243 - INFO - Additional hourly sales analysis completed.
