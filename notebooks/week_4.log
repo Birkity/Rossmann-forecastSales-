@@ -47,3 +47,11 @@
 2024-09-20 15:02:37,940 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
 2024-09-20 15:02:38,058 - INFO - Sales behavior around school holidays plotted.
 2024-09-20 15:02:38,342 - INFO - Additional numerical analysis for holidays and school holidays completed.
+2024-09-20 15:04:18,287 - INFO - Sales before, during, and after holidays analyzed.
+2024-09-20 15:04:18,314 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 15:04:18,314 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 15:04:18,427 - INFO - Sales behavior around holidays plotted.
+2024-09-20 15:04:18,443 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 15:04:18,443 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 15:04:18,563 - INFO - Sales behavior around school holidays plotted.
+2024-09-20 15:04:18,871 - INFO - Additional numerical analysis for holidays and school holidays completed.
