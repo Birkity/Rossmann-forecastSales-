@@ -123,3 +123,12 @@
 2024-09-20 15:48:47,420 - INFO - Assortment type analyzed for sales.
 2024-09-20 15:48:47,619 - INFO - Assortment type effect on sales plotted.
 2024-09-20 15:48:47,620 - INFO - Additional assortment analysis completed.
+2024-09-20 15:49:03,787 - INFO - Analyzed average sales based on competitor distance for city center stores.
+2024-09-20 15:49:14,586 - INFO - Plotted effect of competitor distance on city center store sales.
+2024-09-20 15:49:14,586 - INFO - Completed additional competitor distance analysis.
+2024-09-20 15:50:14,639 - INFO - Analyzed average sales based on competitor distance for city center stores.
+2024-09-20 15:50:14,895 - INFO - Plotted effect of competitor distance on city center store sales.
+2024-09-20 15:50:14,910 - INFO - Completed additional competitor distance analysis.
+2024-09-20 15:50:42,956 - INFO - Analyzed average sales based on competitor distance for city center stores.
+2024-09-20 15:50:43,235 - INFO - Plotted effect of competitor distance on city center store sales.
+2024-09-20 15:50:43,237 - INFO - Completed additional competitor distance analysis.
