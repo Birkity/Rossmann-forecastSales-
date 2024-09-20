@@ -197,3 +197,5 @@
 2024-09-20 19:57:58,674 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
 2024-09-20 19:57:58,682 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
 2024-09-20 19:57:58,813 - INFO - Plotted weekend sales for stores open on all weekdays with text labels.
+2024-09-20 20:08:04,272 - INFO - Analyzed assortment type and its effect on sales.
+2024-09-20 20:08:04,445 - INFO - Assortment type sales plotted.
